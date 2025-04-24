@@ -55,7 +55,3 @@ This application follows a modern React architecture with Redux Toolkit for stat
 - [ ] Persistent state with localStorage
 - [ ] Detailed asset views
 - [ ] Historical data charts
-
-## Demo
-
-![Crypto Tracker Demo](demo.gif)
